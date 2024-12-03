@@ -1,0 +1,1 @@
+dotnet new webapi -o evil_inc -minimal

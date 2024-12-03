@@ -1,0 +1,6 @@
+@evil_inc_HostAddress = http://localhost:5278
+
+GET {{evil_inc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
